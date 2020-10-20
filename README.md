@@ -1,6 +1,6 @@
 # Exploring-Weather-Trends
-
-•	Extract the data from the database.To interact with the database, you'll need to write a SQL query.
+<br></br>
+•	Extract the data from the database.To interact with the database, you'll need to write a SQL query.<br></br>
 •	Write a SQL query to extract the city level data. Export to CSV.
 •	Write a SQL query to extract the global data. Export to CSV.
 •	Open up the CSV in whatever tool you feel most comfortable using. We suggest using Excel or Google sheets, but you are welcome to use another tool, such as Python or R.
